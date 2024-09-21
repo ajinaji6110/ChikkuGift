@@ -304,7 +304,7 @@ function reveal() {
   }
   
   var ifrm = document.createElement("iframe");
-        ifrm.setAttribute("src", "/chikku.jpg");
+        ifrm.setAttribute("src", "chikku.jpg");
         //ifrm.style.width = `${w}px`;
         //ifrm.style.height = `${h}px`;
         ifrm.style.border = 'none';
